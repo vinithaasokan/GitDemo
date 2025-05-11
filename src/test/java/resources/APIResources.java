@@ -1,4 +1,5 @@
 package resources;
+//Vini changed the code in remote
 //enum is special class in java which has collection of constants or  methods
 public enum APIResources {
 	
