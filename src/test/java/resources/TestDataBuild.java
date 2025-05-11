@@ -9,7 +9,7 @@ import pojo.Location;
 public class TestDataBuild {
 
 	
-	
+	//Vini changed the code in local
 	public AddPlace addPlacePayLoad(String name, String language, String address)
 	{
 		AddPlace p =new AddPlace();
